@@ -1,0 +1,19 @@
+.nav-area{
+    text-align: center;
+    margin: 20px 0px;
+}
+.nav-area nav{
+    background-color:grey;
+    line-height: 40px;
+    font-size: 20px;
+}
+nav a {
+    text-decoration: none;
+    color: #fff;
+    margin-right: 25px;
+    padding: 5px;
+}
+nav a:hover{
+    background-color: gray;
+    padding: 5px;
+}

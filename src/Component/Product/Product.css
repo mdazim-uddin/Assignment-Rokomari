@@ -1,0 +1,53 @@
+.cart-area{
+  width: 270px;
+  height: 450px;
+  background-color: bisque;
+  margin: 20px 0px;
+  margin-bottom: 35px;
+  
+  
+}
+.cart-area:hover .btn{
+  display: block;
+ 
+}
+
+.btn {
+    transition:.5s;
+}
+
+.cart-area:hover .t{
+    display: block;
+    transition: .5s;
+}
+.t{
+    transition: .10s;
+}
+
+
+.t{
+    position: absolute;
+    top: 35%;
+    right: 35%;
+    display: none;
+}
+.btn{
+    display: none;
+}
+.cart-img{
+    margin: 10% 0%;
+    position: relative;
+}
+.cart-img img{
+    width: 270px;
+    height: 250px;
+    
+}
+.cart-title h1{
+    font-size: 13px;
+}
+.btn{
+    text-align: center;
+    align-items: center;
+
+}
